@@ -1,1 +1,2 @@
-# project-36
+# My Pro Pet
+My Virtual Pro Pet
